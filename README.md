@@ -27,4 +27,4 @@
 
 ---
 
-**Dibuat dengan 💜 untuk perjalanan belajar python Farid**
+**Dibuat dengan 💜 untuk perjalanan coding Farid**

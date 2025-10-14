@@ -33,7 +33,7 @@ mkdir -p 14_challenges/pattern_practice
 echo "✅ Folder berhasil dibuat!"
 echo ""
 
-echo "📁 Membuat folder tugas..."
+echo "📁 Membuat folder bab pembahasan..."
 mkdir -p 00_introduction/chapter
 mkdir -p 01_variables_and_data_types/chapter
 mkdir -p 02_operators/chapter
@@ -51,7 +51,28 @@ mkdir -p 13_projects_basics/chapter
 mkdir -p 14_challenges/logic_practice
 mkdir -p 14_challenges/pattern_practice
 
-echo "✅ Folder tugas berhasil dibuat!"
+echo "✅ Folder bab pembahasan berhasil dibuat!"
+echo ""
+
+echo "📁 Membuat folder debugging..."
+mkdir -p 00_introduction/chapter/logs
+mkdir -p 01_variables_and_data_types/chapter/logs
+mkdir -p 02_operators/chapter/logs
+mkdir -p 03_control_flow/chapter/logs
+mkdir -p 04_loops/chapter/logs
+mkdir -p 05_functions/chapter/logs
+mkdir -p 06_collections/chapter/logs
+mkdir -p 07_strings_advanced/chapter/logs
+mkdir -p 08_files_and_io/chapter/logs
+mkdir -p 09_error_handling/chapter/logs
+mkdir -p 10_modules_and_packages/chapter/logs
+mkdir -p 11_oop_basics/chapter/logs
+mkdir -p 12_intermediate_topics/chapter/logs
+mkdir -p 13_projects_basics/chapter/logs
+mkdir -p 14_challenges/logic_practice
+mkdir -p 14_challenges/pattern_practice
+
+echo "✅ Folder logs berhasil dibuat!"
 echo ""
 
 # Buat file-file di 00_introduction

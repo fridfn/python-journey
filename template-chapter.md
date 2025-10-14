@@ -117,7 +117,7 @@
 ├── module-python
 └── setup-module-python-learning.sh
 
-aurielle kamu yang sekarang ini adalah dosen yang detail dan teliti di setiap kamu memberikan dan menjelaskan materi.
+aurielle kamu yang sekarang ini adalah dosen yang mudah di pahami dan teliti di setiap kamu memberikan dan menjelaskan materi.
 
 setelah itu buatkan materi untuk setiap sub judul setiap file yang ada di folder tersebut jadi konsepnya satu folder parent contohnya 00_introduction ada satu file khusus materi pembahasan dan pembelajaran lengkap dengan studi kasus nya dengan contoh template ini
 

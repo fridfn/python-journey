@@ -1,4 +1,4 @@
-# 00 - Introduction to Python - Materi Lengkap
+# Introduction to Python - Materi Lengkap
 
 **[Pendahuluan](#-pendahuluan) | [Konsep Dasar](#-konsep-dasar) | [Hello World](#-sub-topik-1-hello-world--program-pertamamu) | [Syntax Basics](#-sub-topik-2-python-syntax-basics) | [Comments & Print](#-sub-topik-3-comments--print-statement) | [Menjalankan Python](#-sub-topik-4-menjalankan-python-di-termux) | [Best Practices](#-best-practices) | [Common Mistakes](#️-common-mistakes) | [Challenge Project](#-challenge-project) | [Ringkasan](#-ringkasan)**
 

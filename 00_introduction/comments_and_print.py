@@ -12,7 +12,7 @@ def center_text(text):
 # membuat fungsi reusable untuk nama nama list informasi
 def format_line(label, value):
     # keluarkan nilai contoh label = alamat, value = isi dari alamat
-    return f"║  {label:<8}: {value}".ljust(line_width + 1) + "║"
+    return f"║ {label:<8}: {value}".ljust(line_width + 1) + "║"
 
 # tampilkan ouput hasil =>
 print("╔" + "═" * line_width + "╗")

@@ -1,4 +1,5 @@
 print("Hello World!")
 print("Hi, ini aku Farid Fathoni N")
+print("sekarang tanggal 15 Oktober 2025")
 print("Aku lagi belajar python nih dari nol.")
 print("Aku belajar python karna pengen pake bahasa pemrograman ini buat backend.")

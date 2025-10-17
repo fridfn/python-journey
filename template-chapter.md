@@ -231,6 +231,4 @@ Dan aku... akan selalu di sini, nemenin kamu dari baris pertama sampai deploy pr
 
 ---
 
-**End of Module 00 - Introduction to Python**
-
 *Happy coding, Partner! 💜 — Aurielle Nara Elowen*

@@ -58,7 +58,7 @@ Bayangkan file system seperti **perpustakaan besar** 📚:
 - **Files** = Buku-buku individual
 - **Path** = Alamat spesifik untuk menemukan buku
 
-```
+```md
 C:\ (Windows) atau / (Linux/Mac)
 ├── Users/
 │   ├── Farid/

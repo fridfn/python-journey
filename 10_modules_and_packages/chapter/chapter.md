@@ -695,7 +695,7 @@ registrasi_user()
 3. Berisi minimal 1 module (file `.py`)
 
 **Contoh struktur:**
-```
+```md
 my_project/
 ├── main.py
 └── my_package/

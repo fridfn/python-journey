@@ -1,39 +1,7 @@
 print("=" * 60)
 print("Belajar deklarasi variabel dan assigment".center(60))
-print("=" * 60)
-
-nama = "farid" # string
-kelas = 22 # integer / number / angka
-tinggi = 175.7 # float / desimal
-
-print("nama :", nama)
-print("kelas :", kelas)
-print("tinggi :", tinggi, "\n")
-
-x, y, z = "ini value x", "ini value y", "ini value z"
-print("cetak nilai dari multiple assigment")
-print(x, y, z, "\n")
-
-x = y = z = 100
-print("cetak nilai dari multiple variable but same value")
-print(x, y, z, "\n")
-
-x = 5
-y = 29
-print(f"sebelum di swap nilai x = {x} dan y = {y}")
-x, y = y, x
-print(f"sesudah di swap nilai x = {x} dan y = {y}\n")
-
-number = 5062006
-print(number, type(number))
-
-nama = "Farid Fathoni N"
-print(nama, type(nama))
-
-tinggi = 175.7
-print(tinggi, type(tinggi), "\n")
-
 print("=" * 60, "\n")
+
 print("LATIHAN 1\n".center(60))
 """
 Latihan 2: Buatlah program untuk menghitung luas dan keliling persegi panjang:

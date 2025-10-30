@@ -1203,7 +1203,7 @@ Buat sistem manajemen sekolah dengan fitur:
 
 #### **Class Structure:**
 
-```
+```md
 Person (Base Class)
 ├── Student
 │   ├── Attributes: nama, nim, kelas, nilai (dict)
